@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linear Equation Solver", "Linear Equation Solver\Linear Equation Solver.vcxproj", "{76E52989-DD32-4092-BA0B-62A2F0FFC6EC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mathify", "MathifyCore\MathifyCore.vcxproj", "{76E52989-DD32-4092-BA0B-62A2F0FFC6EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
